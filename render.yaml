@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: libretv
+    name: 熊猫TV
     runtime: node
     plan: free
     buildCommand: 'npm install'
